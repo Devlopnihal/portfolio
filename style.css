@@ -11,7 +11,7 @@ html{
 }
 body{
     background-color: #231d1b;
-	cursor: url("img/4.png"), auto;
+	cursor: url("./img/4.png"), auto;
 }
 .hero{
     height: 100vh;
@@ -490,27 +490,27 @@ h1{
 	transform: scale(1.2);
 }
 #w1{
-	background: url('img/design1.png');
+	background: url('./img/design1.png');
 	background-size: cover;
 }
 #w2{
-	background: url('img/design2.png');
+	background: url('./img/design2.png');
 	background-size: cover;
 }
 #w3{
-	background: url('img/design3.png');
+	background: url('./img/design3.png');
 	background-size: cover;
 }
 #w4{
-	background: url('img/design4.png');
+	background: url('./img/design4.png');
 	background-size: cover;
 }
 #w5{
-	background: url('img/design5.png');
+	background: url('./img/design5.png');
 	background-size: cover;
 }
 #w6{
-	background: url('img/design6.png');
+	background: url('./img/design6.png');
 	background-size: cover;
 }
 
